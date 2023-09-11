@@ -127,6 +127,7 @@ const Model: React.FC<ModelProps> = ({
                                         disabled={disabled}
                                     />
                                 </div>
+                                {footer}
                             </div>
                         </div>
                     </div>
